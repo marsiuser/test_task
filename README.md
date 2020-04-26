@@ -1,4 +1,4 @@
-# landing
+# random users
 
 ## Project setup
 ```
